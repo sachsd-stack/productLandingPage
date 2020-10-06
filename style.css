@@ -44,11 +44,11 @@ details {
 }
 
 #history{
-    padding-top: 35vh;
+    padding-top: 25vh;
 }
 
 #pricing {
-    padding-top: 35vh;
+    padding-top: 25vh;
 }
 
 @media (max-width:575px) {
@@ -81,14 +81,14 @@ details {
 
 @media screen and (min-width:901px) {
     #features{
-        padding-top: 40vh;
+        padding-top: 45vh;
     }
     
     #history{
-        padding-top: 25vh;
+        padding-top: 45vh;
     }
     
     #pricing {
-        padding-top: 25vh;
+        padding-top: 45vh;
     }
 }
