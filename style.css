@@ -50,3 +50,45 @@ details {
 #pricing {
     padding-top: 35vh;
 }
+
+@media (max-width:575px) {
+    #features{
+        padding-top: 80vh;
+    }
+    #history{
+        padding-top: 40vh;
+    }
+    
+    #pricing {
+        padding-top: 0vh;
+    }
+
+    .content {
+        margin-top:38vh;
+    }
+}
+
+@media screen and (min-width:575px) and (max-width:900px) {
+    
+    #history{
+        padding-top: 25vh;
+    }
+
+    .content {
+        margin-top:25vh;
+    }
+}
+
+@media screen and (min-width:901px) {
+    #features{
+        padding-top: 40vh;
+    }
+    
+    #history{
+        padding-top: 25vh;
+    }
+    
+    #pricing {
+        padding-top: 25vh;
+    }
+}
