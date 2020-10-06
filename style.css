@@ -28,3 +28,24 @@
 summary:focus{
     outline:none;
 }
+
+details {
+    padding:0.1vw;
+}
+
+.hiddenText{
+    color:white;
+    background-color:black;
+}
+
+#features{
+    padding-top: 35vh;
+}
+
+#history{
+    padding-top: 35vh;
+}
+
+#pricing {
+    padding-top: 35vh;
+}
