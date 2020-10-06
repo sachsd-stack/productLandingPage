@@ -1,0 +1,30 @@
+#navbar {
+    position:fixed;
+    top:0;
+    background-color:white;
+    width:100%;
+    margin:0;
+    z-index:10;
+}
+
+.content {
+    margin-top:200px;
+}
+
+#header-img{
+    margin: auto;
+}
+
+#spooky {
+    margin: auto;
+    max-width:50%;
+}
+
+#notAScam{
+    max-width:33.33%;
+    z-index:2;
+}
+
+summary:focus{
+    outline:none;
+}
